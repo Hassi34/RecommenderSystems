@@ -24,12 +24,12 @@
 
 ## Overview
 Recommender systems has the varity of application e.g., Books, Fashion and Movies Recommender Systems.<br>
-This repository will provide you most of the implementations of recomender systems being used in the industry now a days.<br>
+This repository will provide you most of the implementations of recomender systems being used in the industry nowadays.<br>
 Following are the major contents to follow, you can jump to any section:
 
 >   1. [Live Project Link](#live-project)
 >   2. [Run Locally](#run-local)
->   3. [Books Recommendation System Using Clustering | **``Colaborative Filtering``**](https://github.com/Hassi34/RecommenderSystems/books/BooksRecommenderSystem-ColaborativeFiltering.ipynb)
+>   3. [Books Recommendation System Using Clustering | **``Colaborative Filtering``**](https://github.com/Hassi34/RecommenderSystems/blob/main/books/BooksRecommenderSystem-ColaborativeFiltering.ipynb)
 ### 🔗 Project Link<a id='live-project'></a>
 Check out the deployed app [here](#)
 
@@ -56,5 +56,5 @@ Install dependencies
 Start the server
 
 ```bash
-  streamlit run ''$'\360\237\217\240''Home Page.py'
+  streamlit run Homepage.py
 ```
