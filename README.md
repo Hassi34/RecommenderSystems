@@ -31,7 +31,7 @@ Following are the major contents to follow, you can jump to any section:
 >   2. [Run Locally](#run-local)
 >   3. [Books Recommendation System Using Clustering | **``Colaborative Filtering``**](https://github.com/Hassi34/RecommenderSystems/blob/main/books/BooksRecommenderSystem-ColaborativeFiltering.ipynb)
 ### 🔗 Project Link<a id='live-project'></a>
-Check out the deployed app [here](#)
+Check out the deployed app [here](https://recommendersystems.streamlit.app/)
 
 ## Run Locally<a id='run-local'></a>
 
@@ -58,3 +58,5 @@ Start the server
 ```bash
   streamlit run Homepage.py
 ```
+**Copyright &copy; 2022 Hasnain** <br>
+Let's connect on **[``LinkedIn``](https://www.linkedin.com/in/hasanain-mehmood-a37a4116b/)** <br>
